@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_title">Indice de masa corporal</string>
+</resources>
